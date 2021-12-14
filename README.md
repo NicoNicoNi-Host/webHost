@@ -7,9 +7,12 @@
 
 
 
-| 版本 | 活动 |              文件               |                             Note                             |
-| :--: | :--: | :-----------------------------: | :----------------------------------------------------------: |
-| V1.2 | add  |       冷门垂类up(LKS推荐)       | `https://niconicoli.com/webHost/source/冷门垂类up(LKS推荐).html` |
-| V1.3 | add  | 闲鱼-季节月份节日热门选品参考表 | `https://niconicoli.com/webHost/source/闲鱼-季节月份节日热门选品参考表.html` |
-| V1.5 | add  |             狂神PDF             |                                                              |
+| 版本 | 活动 | 文件 | Note |
+|:-:|:-:|:-:|:-:|
+| V1.2 | add | 冷门垂类up(LKS推荐) | `https://niconicoli.com/webHost/source/冷门垂类up(LKS推荐).html` |
+| V1.3 | add | 闲鱼-季节月份节日热门选品参考表 | `https://niconicoli.com/webHost/source/闲鱼-季节月份节日热门选品参考表.html` |
+| V1.5 | add | 狂神PDF |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
